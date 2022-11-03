@@ -1,0 +1,11 @@
+img{
+  height:300px;
+  width:400px;
+  border-radius:20%;
+}
+
+table{
+  border-color:black;
+  padding:10px;
+  background: lightsteelblue;
+}
