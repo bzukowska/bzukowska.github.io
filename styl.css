@@ -7,10 +7,14 @@ table{
   border:2px solid black;
   padding:10px;
   background: lightblue;
+  text-align:middle;
 }
 
 td{
   width:100px;
   height:20px;
-  text-align:middle;
+}
+
+td{
+  border: 1px solid black
 }
